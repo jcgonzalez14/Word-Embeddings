@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Word Embeddings\"\noutput:\n  html_document:\n    css: bootstrap.min.css\n    toc: true\n    toc_depth: 2\n    toc_float:\n      collapsed: false\n      smooth_scroll: true\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\nlibrary(randomForest)\nlibrary(ElemStatLearn)\n```\n[_Julio C. Gonzalez_](https://jcgonzalez14.github.io/)  \n_Jul 19, 2020_  \n\nWith so many statistical methods and new tweaks coming out periodically, it can feel a little overwhelming when choosing one to conduct your analysis. \n\n## R Markdown\n\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n```{r cars}\nsummary(cars)\n```\n\n## Including Plots\n\nYou can also embed plots, for example:\n\n```{r pressure, echo=FALSE}\nplot(pressure)\n```\n\nNote that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n",
+    "created" : 1595195857593.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "850071469",
+    "id" : "81B09941",
+    "lastKnownWriteTime" : 1595196085,
+    "last_content_update" : 1595196085596,
+    "path" : "~/Documents/website/Word-Embeddings/Word Embeddings.Rmd",
+    "project_path" : "Word Embeddings.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

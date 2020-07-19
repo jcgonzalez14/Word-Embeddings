@@ -1,13 +1,24 @@
 ---
 title: "Word Embeddings"
-author: "Julio Gonzalez"
-date: "7/19/2020"
-output: html_document
+output:
+  html_document:
+    css: bootstrap.min.css
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(randomForest)
+library(ElemStatLearn)
 ```
+[_Julio C. Gonzalez_](https://jcgonzalez14.github.io/)  
+_Jul 19, 2020_  
+
+With so many statistical methods and new tweaks coming out periodically, it can feel a little overwhelming when choosing one to conduct your analysis. 
 
 ## R Markdown
 
