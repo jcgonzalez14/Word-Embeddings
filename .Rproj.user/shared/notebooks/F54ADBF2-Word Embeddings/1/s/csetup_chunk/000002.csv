@@ -1,0 +1,7 @@
+"0","devtools::install_github(""pommedeterresautee/fastrtext"")
+"
+"2","Downloading GitHub repo pommedeterresautee/fastrtext@master
+from URL https://api.github.com/repos/pommedeterresautee/fastrtext/zipball/master
+"
+"2","Installation failed: Could not find build tools necessary to build fastrtext
+"
